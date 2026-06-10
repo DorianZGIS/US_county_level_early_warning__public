@@ -66,6 +66,6 @@ This project is licensed under the MIT License.
 For questions or feedback, please contact:
 
 **Dorian Arifi**  
-Email: dorian.arifi@it-u.at
+Email: arifidorian.research@gmail.com
 
 
